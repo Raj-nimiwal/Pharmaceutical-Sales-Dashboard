@@ -24,11 +24,6 @@ The Python code in this repository performs the following:
 - **Initial Data Analysis**: Loads and inspects the raw sales data, identifying key patterns and anomalies.
 - **Star Schema Conversion**: Converts the data into a **star schema** for easier integration with the Power BI dashboard.
 
-### Example of running the data transformation:
-Open Jupyter Notebook/Lab
-```bash
-pharma_sales_data.ipynb```
-
 ### Dashboard Components
 
 The dashboard is divided into four main components, each providing critical insights to stakeholders:
